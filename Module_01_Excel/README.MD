@@ -16,6 +16,7 @@ Limitations:
 - Play projects were successful greater than 2/3 of the time if the goal was between $0 - $4,999 or between $35,000 - $44,999. New play projects should attempt to keep their financial goals withinin these ranges.
 - Goals between $5000 - $24,999 had a roughly even chance of succeeding and failing
 - Goals between $25,000 – $34,999 & greater than $49,999 failed more than 73% of the time
+- There were no cancelled play projects
 
 ### Outcomes Based on Launch Date – Theater
 ![Launch Date Chart](Outcome_LaunchDate_Chart.png)
@@ -24,4 +25,4 @@ Limitations:
 - Projects launched in May and June had the highest success rate. Ideally, new theater projects should launch in in these months, or to a lesser extent, July.
 - Projects launched in all other months did not show an extensive benefit to their success, compared to projects launched in May and June.
 
-In summary, the ideal Kickstarter play project should have a financial goal of less than $5000 and be launched in May.
+In summary, the ideal Kickstarter play project should have a financial goal of less than $5000 and be launched in May. For future analysis, an investigation into staff picks and spolight features on the outcome may be beneficial.
